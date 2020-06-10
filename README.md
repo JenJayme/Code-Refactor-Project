@@ -1,38 +1,27 @@
-# Project Title
+# Horiseon Home Page with Improved Accessibility
 
-Web page refactored to improve accessibility, including better access for those with disabilities or socio-economic restrictions.  Version 1 target date 6.11.20.
+Home page for Horiseon, a company specialized in Search Engine Optimization (SEO), Online Reputation Management and Social Media Marketing.  We are updating our web presence to improve accessibility for all people, including those with disabilities or socio-economic restrictions.  (Version 1 target date 6.11.20.)
 
 <!--from template, to be updated-->
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Open your browser of choice and check out our home page, and see what we can do for your reputation.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+You'll need an internet connection and a web browser to effectively open this site.  Our favorite is Google Chrome.  You can also use Safari, Mozilla Firefox, Microsoft Edge or Explorer.  
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+First, make sure your device is connected to the internet, then open your web browser.  If unsure whether you have a web browser, or whether you have the latest version, visit [UpdateMyBrowser.org] (https://updatemybrowser.org/) to see what's on your device.
 
-Say what the step will be
+If using a smartphone, download the latest web browser for free here:
+* [For Android Users: Google Play] (https://play.google.com/store/apps)
+* [For iPhone Users: The Apple Store] (https://www.apple.com/ios/app-store/)
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
+If using a laptop or desktop computer, download the latest version of Chrome or Safari for free here:
+[Google Chrome](https://www.google.com/chrome)
+[Safari for Mac](https://support.apple.com/en-us/HT204416)
 
 ## Built With
 
@@ -42,25 +31,25 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Deployed Link
 
-* [See Live Site](#)
-
+* [Horiseon Refactored](https://jenjayme.github.io/Code-Refactor-Project/)
 
 ## Authors
 
-* **YOUR NAME** 
+* **Jen Jayme** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Portfolio Site](#coming soon)
+- [Github](https://github.com/jenjayme)
+- [LinkedIn](https://www.linkedin.com/jenjayme)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/JenJayme/Code-Refactor-Project/graphs/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the Creative Commons Zero v1.0 Universal License.  Details can be found in License.txt. 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* Hat tip to anyone whose code, libraries, packages, or UI was used:
+* Original page design by Jerome Chenette
+* License assistance and copy from [ChooseALicense.com] (https://choosealicense.com/) 
+* Contributing instructions adapted from [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md)  
