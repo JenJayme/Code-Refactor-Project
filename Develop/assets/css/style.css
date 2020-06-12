@@ -29,7 +29,7 @@ nav {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 1vw;
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
@@ -42,8 +42,7 @@ a {
 
 /*Added float: inherit so text will inherit parent float style.*/
 p {
-    font-size: 16px;
-    float: inherit;
+    font-size: 1vw;
 }
 
 .hero {
@@ -68,7 +67,7 @@ p {
 /*Conslidated non-semantic <div> classes with redundant properties (benefit-lead, benefit-brand & benefit-cost) to one semantic class (sidebar).*/
 .sidebar {
     position: relative;
-    bottom: 10px;
+    top: 10px;
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -76,6 +75,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1vw;
     background-color: #2589bd;
     margin-bottom: 32px;
     color: #ffffff;
@@ -95,6 +95,7 @@ p {
 /*Simplified classes with redundant properties into a single class (competency-block)*/
 .service-block {
     margin-bottom: 20px;
+    display: block;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -111,7 +112,7 @@ p {
 
 .service-block h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 2vw;
 }
 
 .footer {
