@@ -1,8 +1,18 @@
 # Horiseon Home Page - Refactor for Improved Accessibility
 
-Welcome to the home page for Horiseon, a company specialized in Search Engine Optimization (SEO), Online Reputation Management and Social Media Marketing.  We are updating our web presence to improve accessibility for all people, including those with disabilities or socio-economic restrictions.  This is the Readme file for Refactor Version 1, target publish date 6.11.20.
+Welcome to the home page for Horiseon, a company specialized in Search Engine Optimization (SEO), Online Reputation Management and Social Media Marketing.  We are updating our web site to improve accessibility for all people.  This is the Readme file for Refactor Version 1, target publish date 6.11.20.
 
-<!--from template, to be updated-->
+## Improvements in This Version
+
+Our new web page is revamped to offer better accessibility to all people, including those with impaired vision, hearing and motor functions, as well as people from all socio-economic circumstances, whether accessing the internet from a smartphone, tablet or desktop computer, through a slow or fast connection, using a screen reader or other assistive technology.  Features of the new version include:
+
+* Alternative text for all images
+* Images optimized for faster loading 
+* Page title modified to be more descriptive in search-engine-friendly terms
+* Semantic HTML tags
+* Clear concise headings in sequential and logical order
+* Mobile responsive elements
+
 ## Getting Started
 
 Open your browser of choice, check out our page, and see what we can do for your reputation.
@@ -52,5 +62,6 @@ This project is licensed under the Creative Commons Zero v1.0 Universal License.
 * Credit for original page design goes to Trilogy Education Services, a 2U, Inc.
 * Thanks to Jerome Chenette for referring this page for the code refactor work, and high five for embedding accessibility into the first exercise.
 * Help with WCAG Guidelines and semantic HTML elements from [w3schools.com](https://www.w3schools.com)
+* Image compression by [ImageCompressor.com](https://imagecompressor.com/)
 * License assistance and license.txt language from [ChooseALicense.com] (https://choosealicense.com/) 
 * Code contributing instructions adapted from [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md)  
